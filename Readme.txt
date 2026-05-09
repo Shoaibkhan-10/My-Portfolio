@@ -1,7 +1,7 @@
-# 🌟 Shoaib Khan | Web Developer Portfolio
+# 🌟 Shoaib Khan | Web & Mobile Developer Portfolio
 
-Welcome to my **personal web development portfolio**, showcasing my projects, skills, and experience in **HTML, CSS, JavaScript, PHP, MySQL, React, and more**.  
-Designed with a modern, responsive UI to highlight my development capabilities and hands-on projects.
+Welcome to my personal portfolio showcasing my work in Web Development and Mobile App Development.  
+I build responsive websites and cross-platform mobile applications using modern technologies and continuously improve my skills through real-world projects.
 
 ---
 
@@ -9,12 +9,13 @@ Designed with a modern, responsive UI to highlight my development capabilities a
 
 Here are some of the key projects I have worked on:
 
-1. **Vaccine Management System** – PHP & MySQL based system for managing vaccines and appointments.  
-2. **Hospital Management System** – Complete hospital management with admin, doctor, and patient interfaces.  
-3. **Airline Reservation System** – ASP.NET application for booking and managing flights.  
-4. **Calculator Project** – Responsive JS calculator demonstrating DOM manipulation and event handling.  
-
-*(More projects can be added here as you grow your portfolio)*
+1. **Hudson Furnishing Website** – A responsive furniture e-commerce frontend built using HTML, CSS, JavaScript, Bootstrap, and jQuery.  
+2. **Vaccine Management System** – PHP & MySQL based system for managing vaccines, users, and appointments.  
+3. **Airline Reservation System** – ASP.NET Core project for flight booking and management system.  
+4. **BabyShopHub Mobile App** – Flutter & Dart based e-commerce application with Firebase integration, including cart, wishlist, checkout, authentication, and AI chatbot.  
+5. **Wedding Ceremony Website** – Event management website for showcasing wedding functions like Mehndi, Barat, and Valima with a modern UI.  
+6. **JavaScript Calculator** – Simple logic-based calculator built using core JavaScript for DOM and event handling.  
+7. **Personal Portfolio Website** – Designed and developed using HTML, CSS, JavaScript, and PHP.
 
 ---
 
@@ -22,30 +23,38 @@ Here are some of the key projects I have worked on:
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
 - **Backend:** PHP, MySQL, ASP.NET (C#)  
-- **Frameworks & Libraries:** React.js, jQuery  
-- **Tools:** Git, GitHub, Visual Studio, VS Code  
+- **Mobile App Development:** Flutter, Dart, Firebase  
+- **Learning / Expanding:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Laravel, Angular  
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
 ## 🌐 Live Demo
 
 Visit my live portfolio website:  
-(https://Shoaibkhan-10.github.io/My-Portfolio/)
+https://Shoaibkhan-10.github.io/My-Portfolio/
 
 ---
 
 ## 👤 About Me
 
 **Shoaib Khan**  
-Full Stack Developer  
+Web & Mobile Application Developer  
 Karachi, Pakistan  
 
-- GitHub: [Shoaibkhan-10](https://github.com/Shoaibkhan-10)  
-- LinkedIn: (https://www.linkedin.com/in/shoaib-khan-895b4b362/)  
-- Email: (shokhan5430@gmail.com)  
+- GitHub: https://github.com/Shoaibkhan-10  
+- LinkedIn: https://www.linkedin.com/in/shoaib-khan-895b4b362/  
+- Email: shokhan5430@gmail.com  
+
+---
+
+## 💼 Experience
+
+Worked as a Data Entry Operator in a UAE-based real estate company where I managed and updated web content on platforms like Primo Capital and other luxury property projects including Mercedes-Benz Places, Burj Binghatti, One Za’abeel, and Bugatti Residences.  
+My responsibilities included updating property listings, project details, payment plans, blogs, FAQs, newsletters, and maintaining structured data in CMS and spreadsheets.
 
 ---
 
 ## 📜 License
 
-This portfolio is open-source and free to use for learning and professional demonstration purposes.
+This portfolio is open-source and free to use for learning and professional showcasing purposes.
