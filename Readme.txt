@@ -30,14 +30,14 @@ Here are some of the key projects I have worked on:
 ## 🌐 Live Demo
 
 Visit my live portfolio website:  
-[https://Shoaibkhan-10.github.io/My-Portfolio/](https://Shoaibkhan-10.github.io/My-Portfolio/)
+(https://Shoaibkhan-10.github.io/My-Portfolio/)
 
 ---
 
 ## 👤 About Me
 
 **Shoaib Khan**  
-Frontend & Backend Web Developer  
+Full Stack Developer  
 Karachi, Pakistan  
 
 - GitHub: [Shoaibkhan-10](https://github.com/Shoaibkhan-10)  
